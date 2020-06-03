@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>진선경w</td>
-          <td>진선경</td>
-          <td>진선경</td>
-          <td>진선경<td>
-          <td>진선경</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름<td>
+          <td>이름</td>
         </tr>
         <tr>
-          <td>진선경</td>
-          <td>진선경</td>
-          <td>진선경</td>
-          <td>진선경</td>
-          <td>진선경</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
         </tr>
       </tbody>
 </table>
