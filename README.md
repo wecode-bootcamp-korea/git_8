@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>정나온</td>
-          <td>정나온</td>
-          <td>정나온</td>
-          <td>정나온</td>
-          <td>정나온</td>
+          <td>노광오</td>
+          <td>노광오</td>
+          <td>노광오</td>
+          <td>노광오</td>
+          <td>노광오</td>
         </tr>
         <tr>
-          <td>정나온</td>
-          <td>정나온</td>
-          <td>정나온</td>
-          <td>정나온</td>
-          <td>정나온</td>
+          <td>노광오</td>
+          <td>노광오</td>
+          <td>노광오</td>
+          <td>노광오</td>
+          <td>노광오</td>
         </tr>
       </tbody>
 </table>
