@@ -3,8 +3,8 @@
         <tr>
           <td>정수빈</td>
           <td>정수빈</td>
-          <td>진선경</td>
-          <td>진선경<td>
+          <td>정수빈</td>
+          <td>정수빈<td>
           <td>진선경</td>
         </tr>
         <tr>
