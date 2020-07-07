@@ -1,19 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>권오성</td>
-          <td>권오성</td>
-		  <td>권오성</td>
-		  <td>권오성</td>
-		  <td>권오성</td>
-		  <td>권오성</td>
+          <td>jojo</td>
+          <td>jojo</td>
+          <td></td>
+          <td>진선경<td>
+          <td>진선경</td>
         </tr>
         <tr>
-          <td>권오성</td>
-          <td>권오성</td>
-          <td>권오성</td>
-          <td>권오성</td>
-          <td>권오성</td>
+          <td>jojo</td>
+          <td>jojo</td>
+          <td>jojo</td>
+          <td>jojo</td>
+          <td>jojo<</td>
         </tr>
       </tbody>
 </table>
